@@ -1,4 +1,4 @@
-# Pokecord-auto-catcher
+# Pokecord Auto Catcher
 Discord self bot that automatically catches Pokémon. Beware as you will probably get banned for using this too frequently.
 
 ```json
