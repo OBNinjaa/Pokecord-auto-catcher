@@ -19,6 +19,7 @@ client.on("ready", () => {
 });
 
 client.on("message", (message) => {
+  if (message.channel.type === "dm") return;
   if (message.guild.id !== config.server) return;
   if (message.author.id !== "705016654341472327") return;
   message.embeds.some((item) => {
