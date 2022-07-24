@@ -1,0 +1,15 @@
+{
+  "name": "pokecord-auto-catcher",
+  "version": "1.0.0",
+  "description": "Discord self bot that automatically catches Pokémon",
+  "main": "index.js",
+  "keywords": [],
+  "author": "OBNinjaa",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "figlet": "^1.5.2",
+    "fs": "^0.0.1-security",
+    "legend.js": "^11.8.9"
+  }
+}
