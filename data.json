@@ -492,11 +492,6 @@
     "id": 103
   },
   {
-    "name": "Exeggutor",
-    "id": 103,
-    "variation": "Exeggutor-Alola"
-  },
-  {
     "name": "Cubone",
     "id": 104
   },
@@ -2070,31 +2065,6 @@
     "id": 479
   },
   {
-    "name": "Rotom",
-    "id": 479,
-    "variation": "Rotom-Heat"
-  },
-  {
-    "name": "Rotom",
-    "id": 479,
-    "variation": "Rotom-Wash"
-  },
-  {
-    "name": "Rotom",
-    "id": 479,
-    "variation": "Rotom-Frost"
-  },
-  {
-    "name": "Rotom",
-    "id": 479,
-    "variation": "Rotom-Fan"
-  },
-  {
-    "name": "Rotom",
-    "id": 479,
-    "variation": "Rotom-Mow"
-  },
-  {
     "name": "Uxie",
     "id": 480
   },
@@ -2126,11 +2096,6 @@
     "name": "Giratina",
     "variation": "Giratina-Altered",
     "id": 487
-  },
-  {
-    "name": "Giratina",
-    "id": 487,
-    "variation": "Giratina-Origin"
   },
   {
     "name": "Cresselia",
@@ -3600,5 +3565,397 @@
   {
     "name": "Zeraora",
     "id": 807
+  },
+  {
+    "name": "Meltan",
+    "id": 808
+  },
+  {
+    "name": "Melmetal",
+    "id": 809
+  },
+  {
+    "name": "Grookey",
+    "id": 810
+  },
+  {
+    "name": "Thwackey",
+    "id": 811
+  },
+  {
+    "name": "Rillaboom",
+    "id": 812
+  },
+  {
+    "name": "Scorbunny",
+    "id": 813
+  },
+  {
+    "name": "Raboot",
+    "id": 814
+  },
+  {
+    "name": "Cinderace",
+    "id": 815
+  },
+  {
+    "name": "Sobble",
+    "id": 816
+  },
+  {
+    "name": "Drizzile",
+    "id": 817
+  },
+  {
+    "name": "Inteleon",
+    "id": 818
+  },
+  {
+    "name": "Skwovet",
+    "id": 819
+  },
+  {
+    "name": "Greedent",
+    "id": 820
+  },
+  {
+    "name": "Rookidee",
+    "id": 821
+  },
+  {
+    "name": "Corvisquire",
+    "id": 822
+  },
+  {
+    "name": "Corviknight",
+    "id": 823
+  },
+  {
+    "name": "Blipbug",
+    "id": 824
+  },
+  {
+    "name": "Dottler",
+    "id": 825
+  },
+  {
+    "name": "Orbeetle",
+    "id": 826
+  },
+  {
+    "name": "Nickit",
+    "id": 827
+  },
+  {
+    "name": "Thievul",
+    "id": 828
+  },
+  {
+    "name": "Gossifleur",
+    "id": 829
+  },
+  {
+    "name": "Eldegoss",
+    "id": 830
+  },
+  {
+    "name": "Wooloo",
+    "id": 831
+  },
+  {
+    "name": "Dubwool",
+    "id": 832
+  },
+  {
+    "name": "Chewtle",
+    "id": 833
+  },
+  {
+    "name": "Drednaw",
+    "id": 834
+  },
+  {
+    "name": "Yamper",
+    "id": 835
+  },
+  {
+    "name": "Boltund",
+    "id": 836
+  },
+  {
+    "name": "Rolycoly",
+    "id": 837
+  },
+  {
+    "name": "Carkol",
+    "id": 838
+  },
+  {
+    "name": "Coalossal",
+    "id": 839
+  },
+  {
+    "name": "Applin",
+    "id": 840
+  },
+  {
+    "name": "Flapple",
+    "id": 841
+  },
+  {
+    "name": "Appletun",
+    "id": 842
+  },
+  {
+    "name": "Silicobra",
+    "id": 843
+  },
+  {
+    "name": "Sandaconda",
+    "id": 844
+  },
+  {
+    "name": "Cramorant",
+    "id": 845
+  },
+  {
+    "name": "Arrokuda",
+    "id": 846
+  },
+  {
+    "name": "Barraskewda",
+    "id": 847
+  },
+  {
+    "name": "Toxel",
+    "id": 848
+  },
+  {
+    "name": "Toxtricity Lowkey",
+    "id": 849
+  },
+  {
+    "name": "Sizzlipede",
+    "id": 850
+  },
+  {
+    "name": "Centiskorch",
+    "id": 851
+  },
+  {
+    "name": "Clobbopus",
+    "id": 852
+  },
+  {
+    "name": "Grapploct",
+    "id": 853
+  },
+  {
+    "name": "Sinistea",
+    "id": 854
+  },
+  {
+    "name": "Polteageist",
+    "id": 855
+  },
+  {
+    "name": "Hatenna",
+    "id": 856
+  },
+  {
+    "name": "Hattrem",
+    "id": 857
+  },
+  {
+    "name": "Hatterene",
+    "id": 858
+  },
+  {
+    "name": "Impidimp",
+    "id": 859
+  },
+  {
+    "name": "Morgrem",
+    "id": 860
+  },
+  {
+    "name": "Grimmsnarl",
+    "id": 861
+  },
+  {
+    "name": "Obstagoon",
+    "id": 862
+  },
+  {
+    "name": "Perrserker",
+    "id": 863
+  },
+  {
+    "name": "Cursola",
+    "id": 864
+  },
+  {
+    "name": "Sirfetchd",
+    "id": 865
+  },
+  {
+    "name": "Mr. Rime",
+    "id": 866
+  },
+  {
+    "name": "Runerigus",
+    "id": 867
+  },
+  {
+    "name": "Milcery",
+    "id": 868
+  },
+  {
+    "name": "Alcremie",
+    "id": 869
+  },
+  {
+    "name": "Falinks",
+    "id": 870
+  },
+  {
+    "name": "Pincurchin",
+    "id": 871
+  },
+  {
+    "name": "Snom",
+    "id": 872
+  },
+  {
+    "name": "Frosmoth",
+    "id": 873
+  },
+  {
+    "name": "Stonjourner",
+    "id": 874
+  },
+  {
+    "name": "Eiscue",
+    "id": 875
+  },
+  {
+    "name": "Indeedee",
+    "id": 876
+  },
+  {
+    "name": "Morpeko",
+    "id": 877
+  },
+  {
+    "name": "Cufant",
+    "id": 878
+  },
+  {
+    "name": "Copperajah",
+    "id": 879
+  },
+  {
+    "name": "Dracozolt",
+    "id": 880
+  },
+  {
+    "name": "Arctozolt",
+    "id": 881
+  },
+  {
+    "name": "Dracovish",
+    "id": 882
+  },
+  {
+    "name": "Arctovish",
+    "id": 883
+  },
+  {
+    "name": "Duraludon",
+    "id": 884
+  },
+  {
+    "name": "Dreepy",
+    "id": 885
+  },
+  {
+    "name": "Drakloak",
+    "id": 886
+  },
+  {
+    "name": "Dragapult",
+    "id": 887
+  },
+  {
+    "name": "Zacian",
+    "id": 888
+  },
+  {
+    "name": "Zamazenta",
+    "id": 889
+  },
+  {
+    "name": "Eternatus",
+    "id": 890
+  },
+  {
+    "name": "Kubfu",
+    "id": 891
+  },
+  {
+    "name": "Urshifu",
+    "id": 892
+  },
+  {
+    "name": "Zarude",
+    "id": 893
+  },
+  {
+    "name": "Regieleki",
+    "id": 894
+  },
+  {
+    "name": "Regidrago",
+    "id": 895
+  },
+  {
+    "name": "Glastrier",
+    "id": 896
+  },
+  {
+    "name": "Spectrier",
+    "id": 897
+  },
+  {
+    "name": "Calyrex",
+    "id": 898
+  },
+  {
+    "name": "Wyrdeer",
+    "id": 899
+  },
+  {
+    "name": "Kleavor",
+    "id": 900
+  },
+  {
+    "name": "Ursaluna",
+    "id": 901
+  },
+  {
+    "name": "Basculegion",
+    "id": 902
+  },
+  {
+    "name": "Sneasler",
+    "id": 903
+  },
+  {
+    "name": "Overqwil",
+    "id": 904
+  },
+  {
+    "name": "Enamorus",
+    "id": 905
   }
 ]
