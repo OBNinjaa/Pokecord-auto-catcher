@@ -76,18 +76,8 @@
     "id": 19
   },
   {
-    "name": "Rattata",
-    "id": 19,
-    "variation": "Rattata-Alola"
-  },
-  {
     "name": "Raticate",
     "id": 20
-  },
-  {
-    "name": "Raticate",
-    "id": 20,
-    "variation": "Raticate-Alola"
   },
   {
     "name": "Spearow",
@@ -123,18 +113,8 @@
     "id": 27
   },
   {
-    "name": "Sandshrew",
-    "id": 27,
-    "variation": "Sandshrew-Alola"
-  },
-  {
     "name": "Sandslash",
     "id": 28
-  },
-  {
-    "name": "Sandslash",
-    "id": 28,
-    "variation": "Sandslash-Alola"
   },
   {
     "name": "Nidoran",
@@ -173,18 +153,8 @@
     "id": 37
   },
   {
-    "name": "Vulpix",
-    "id": 37,
-    "variation": "Vulpix-Alola"
-  },
-  {
     "name": "Ninetales",
     "id": 38
-  },
-  {
-    "name": "Ninetales",
-    "id": 38,
-    "variation": "Ninetales-Alola"
   },
   {
     "name": "Jigglypuff",
@@ -235,36 +205,16 @@
     "id": 50
   },
   {
-    "name": "Diglett",
-    "id": 50,
-    "variation": "Diglett-Alola"
-  },
-  {
     "name": "Dugtrio",
     "id": 51
-  },
-  {
-    "name": "Dugtrio",
-    "id": 51,
-    "variation": "Dugtrio-Alola"
   },
   {
     "name": "Meowth",
     "id": 52
   },
   {
-    "name": "Meowth",
-    "id": 52,
-    "variation": "Meowth-Alola"
-  },
-  {
     "name": "Persian",
     "id": 53
-  },
-  {
-    "name": "Persian",
-    "id": 53,
-    "variation": "Persian-Alola"
   },
   {
     "name": "Psyduck",
@@ -351,27 +301,12 @@
     "id": 74
   },
   {
-    "name": "Geodude",
-    "id": 74,
-    "variation": "Geodude-Alola"
-  },
-  {
     "name": "Graveler",
     "id": 75
   },
   {
-    "name": "Graveler",
-    "id": 75,
-    "variation": "Graveler-Alola"
-  },
-  {
     "name": "Golem",
     "id": 76
-  },
-  {
-    "name": "Golem",
-    "id": 76,
-    "variation": "Golem-Alola"
   },
   {
     "name": "Ponyta",
@@ -422,18 +357,8 @@
     "id": 88
   },
   {
-    "name": "Grimer",
-    "id": 88,
-    "variation": "Grimer-Alola"
-  },
-  {
     "name": "Muk",
     "id": 89
-  },
-  {
-    "name": "Muk",
-    "id": 89,
-    "variation": "Muk-Alola"
   },
   {
     "name": "Shellder",
@@ -498,11 +423,6 @@
   {
     "name": "Marowak",
     "id": 105
-  },
-  {
-    "name": "Marowak",
-    "id": 105,
-    "variation": "Marowak-Alola"
   },
   {
     "name": "Hitmonlee",
@@ -1490,21 +1410,6 @@
     "id": 351
   },
   {
-    "name": "Castform",
-    "id": 351,
-    "variation": "Castform-Sunny"
-  },
-  {
-    "name": "Castform",
-    "id": 351,
-    "variation": "Castform-Rainy"
-  },
-  {
-    "name": "Castform",
-    "id": 351,
-    "variation": "Castform-Snowy"
-  },
-  {
     "name": "Kecleon",
     "id": 352
   },
@@ -1629,18 +1534,8 @@
     "id": 382
   },
   {
-    "name": "Kyogre",
-    "id": 382,
-    "variation": "Kyogre-Primal"
-  },
-  {
     "name": "Groudon",
     "id": 383
-  },
-  {
-    "name": "Groudon",
-    "id": 383,
-    "variation": "Groudon-Primal"
   },
   {
     "name": "Rayquaza",
@@ -1653,21 +1548,6 @@
   {
     "name": "Deoxys",
     "id": 386
-  },
-  {
-    "name": "Deoxys",
-    "id": 386,
-    "variation": "Deoxys-Attack"
-  },
-  {
-    "name": "Deoxys",
-    "id": 386,
-    "variation": "Deoxys-Defense"
-  },
-  {
-    "name": "Deoxys",
-    "id": 386,
-    "variation": "Deoxys-Speed"
   },
   {
     "name": "Turtwig",
@@ -1775,29 +1655,9 @@
     "id": 412
   },
   {
-    "name": "Burmy",
-    "variation": "Burmy-Sandy",
-    "id": 412
-  },
-  {
-    "name": "Burmy",
-    "variation": "Burmy-Trash",
-    "id": 412
-  },
-  {
     "name": "Wormadam",
     "variation": "Wormadam-Plant",
     "id": 413
-  },
-  {
-    "name": "Wormadam",
-    "id": 413,
-    "variation": "Wormadam-Sandy"
-  },
-  {
-    "name": "Wormadam",
-    "id": 413,
-    "variation": "Wormadam-Trash"
   },
   {
     "name": "Mothim",
@@ -2376,11 +2236,6 @@
     "id": 555
   },
   {
-    "name": "Darmanitan",
-    "id": 555,
-    "variation": "Darmanitan-Zen"
-  },
-  {
     "name": "Maractus",
     "id": 556
   },
@@ -2502,39 +2357,9 @@
     "id": 585
   },
   {
-    "name": "Deerling",
-    "id": 585,
-    "variation": "Deerling-Summer"
-  },
-  {
-    "name": "Deerling",
-    "id": 585,
-    "variation": "Deerling-Autumn"
-  },
-  {
-    "name": "Deerling",
-    "id": 585,
-    "variation": "Deerling-Winter"
-  },
-  {
     "name": "Sawsbuck",
     "variation": "Sawsbuck-Spring",
     "id": 586
-  },
-  {
-    "name": "Sawsbuck",
-    "id": 586,
-    "variation": "Sawsbuck-Summer"
-  },
-  {
-    "name": "Sawsbuck",
-    "id": 586,
-    "variation": "Sawsbuck-Autumn"
-  },
-  {
-    "name": "Sawsbuck",
-    "id": 586,
-    "variation": "Sawsbuck-Winter"
   },
   {
     "name": "Emolga",
@@ -2757,18 +2582,8 @@
     "id": 641
   },
   {
-    "name": "Tornadus",
-    "id": 641,
-    "variation": "Tornadus-Therian"
-  },
-  {
     "name": "Thundurus",
     "id": 642
-  },
-  {
-    "name": "Thundurus",
-    "id": 642,
-    "variation": "Thundurus-Therian"
   },
   {
     "name": "Reshiram",
@@ -2783,41 +2598,16 @@
     "id": 645
   },
   {
-    "name": "Landorus",
-    "id": 645,
-    "variation": "Landorus-Therian"
-  },
-  {
     "name": "Kyurem",
     "id": 646
-  },
-  {
-    "name": "Kyurem",
-    "id": 646,
-    "variation": "Kyurem-White"
-  },
-  {
-    "name": "Kyurem",
-    "id": 646,
-    "variation": "Kyurem-Black"
   },
   {
     "name": "Keldeo",
     "id": 647
   },
   {
-    "name": "Keldeo",
-    "id": 647,
-    "variation": "Keldeo-Resolute"
-  },
-  {
     "name": "Meloetta",
     "id": 648
-  },
-  {
-    "name": "Meloetta",
-    "id": 648,
-    "variation": "Meloetta-Pirouette"
   },
   {
     "name": "Genesect",
@@ -2858,11 +2648,6 @@
   {
     "name": "Greninja",
     "id": 658
-  },
-  {
-    "name": "Greninja",
-    "id": 658,
-    "variation": "Greninja-Ash"
   },
   {
     "name": "Bunnelby",
@@ -2913,26 +2698,6 @@
     "id": 670
   },
   {
-    "name": "Floette",
-    "id": 670,
-    "variation": "Floette_Yellow_Flower_Dream"
-  },
-  {
-    "name": "Floette",
-    "id": 670,
-    "variation": "Floette_Orange_Flower_Dream"
-  },
-  {
-    "name": "Floette",
-    "id": 670,
-    "variation": "Floette_Blue_Flower_Dream"
-  },
-  {
-    "name": "Floette",
-    "id": 670,
-    "variation": "Floette_White_Flower_Dream"
-  },
-  {
     "name": "Florges",
     "id": 671
   },
@@ -2974,16 +2739,6 @@
   },
   {
     "name": "Aegislash",
-    "id": 681
-  },
-  {
-    "name": "Aegislash",
-    "variation": "Aegislash-Shield",
-    "id": 681
-  },
-  {
-    "name": "Aegislash",
-    "variation": "Aegislash-Blade",
     "id": 681
   },
   {
@@ -3151,11 +2906,6 @@
   {
     "name": "Hoopa",
     "id": 720
-  },
-  {
-    "name": "Hoopa",
-    "id": 720,
-    "variation": "Hoopa-Unbound"
   },
   {
     "name": "Volcanion",
@@ -3404,11 +3154,6 @@
   {
     "name": "Minior",
     "id": 774
-  },
-  {
-    "name": "Minior",
-    "id": 774,
-    "variation": "Minior-Core"
   },
   {
     "name": "Komala",
@@ -3731,7 +3476,7 @@
     "id": 848
   },
   {
-    "name": "Toxtricity Lowkey",
+    "name": "Toxtricity",
     "id": 849
   },
   {
